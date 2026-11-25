@@ -81,18 +81,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london)
 - **GitHub Repository**: [Smart Meters in London AI Project](https://github.com/ToheedAsghar/Smart_Meters_In_London_AI_Project.git)
 
---- 
-
-This README file provides a comprehensive overview of your project while being concise enough to engage readers effectively.
-
-Citations:
-[1] https://www.cl.cam.ac.uk/research/srg/netos/e-energy2014/docs/p213.pdf
-[2] https://assets.new.siemens.com/siemens/assets/api/uuid:d1f4e2d38f1d105157ca6ed713198f22a55457d5/7282-08-white-paper-a4-portrait-en-161028-1.pdf
-[3] https://cdn2.hubspot.net/hubfs/5724847/FY_19_Revamp_Assets_Website/Resource%20Center/White-Papers/Utilities/The-Smart-Choice-for-Smart-Meter-Analytics.pdf
-[4] https://aws.amazon.com/energy-utilities/solutions/meter-data-analytics/
-[5] https://arxiv.org/pdf/1802.04117.pdf
-[6] https://www.mdpi.com/2076-3417/11/2/500
-[7] https://dl.acm.org/doi/10.1145/3004295
-
----
 
